@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="card01a" type="id"/>
+    <item name="card02a" type="id"/>
+    <item name="card03a" type="id"/>
+    <item name="card04a" type="id"/>
+    <item name="card05a" type="id"/>
+    <item name="card06a" type="id"/>
+    <item name="card07a" type="id"/>
+    <item name="card08a" type="id"/>
+    <item name="card09a" type="id"/>
+    <item name="card10a" type="id"/>
+    <item name="card11a" type="id"/>
+    <item name="card12a" type="id"/>
+    <item name="card13a" type="id"/>
+    <item name="card14a" type="id"/>
+    <item name="card15a" type="id"/>
+    <item name="card16a" type="id"/>
+    <item name="card17a" type="id"/>
+    <item name="card18a" type="id"/>
+    <item name="card19a" type="id"/>
+    <item name="card20a" type="id"/>
+
+    <item name="card01b" type="id"/>
+    <item name="card02b" type="id"/>
+    <item name="card03b" type="id"/>
+    <item name="card04b" type="id"/>
+    <item name="card05b" type="id"/>
+    <item name="card06b" type="id"/>
+    <item name="card07b" type="id"/>
+    <item name="card08b" type="id"/>
+    <item name="card09b" type="id"/>
+    <item name="card10b" type="id"/>
+    <item name="card11b" type="id"/>
+    <item name="card12b" type="id"/>
+    <item name="card13b" type="id"/>
+    <item name="card14b" type="id"/>
+    <item name="card15b" type="id"/>
+    <item name="card16b" type="id"/>
+    <item name="card17b" type="id"/>
+    <item name="card18b" type="id"/>
+    <item name="card19b" type="id"/>
+    <item name="card20b" type="id"/>
+</resources>

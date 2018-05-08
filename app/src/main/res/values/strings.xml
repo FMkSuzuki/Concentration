@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Concentration</string>
+    <string name="textview">TextView</string>
+    <string name="reset">reset</string>
+</resources>
